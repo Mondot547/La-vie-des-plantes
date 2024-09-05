@@ -1,0 +1,1328 @@
+# Copyright (C) 2024 GS_Woops_Slider
+# This file is distributed under the same license as the GS_Woops_Slider package.
+msgid ""
+msgstr ""
+"Project-Id-Version: GS_Woops_Slider\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../includes/functions.php:406
+msgid "GS WooCommerce Products Slider is not working because you need to install the WooCommerce plugin."
+msgstr ""
+
+#: ../includes/functions.php:407
+msgid "Install WooCommerce Now"
+msgstr ""
+
+#: ../includes/functions.php:398
+msgid "GS WooCommerce Products Slider is not working because you need to activate the WooCommerce plugin."
+msgstr ""
+
+#: ../includes/functions.php:399
+msgid "Activate WooCommerce Plugin Now"
+msgstr ""
+
+#: ../includes/functions.php:425
+msgid "GS WooCommerce Products is not working because you need to upgrade the GS WooCommerce Products Pro plugin to latest version."
+msgstr ""
+
+#: ../includes/functions.php:426
+msgid "Upgrade GS WooCommerce Products Pro Now"
+msgstr ""
+
+#: ../includes/hooks.php:32
+msgid "Product Badge"
+msgstr ""
+
+#: ../includes/hooks.php:35
+msgid "Enter the badge text to display in the product."
+msgstr ""
+
+#: ../includes/hooks.php:46
+msgid "Initial Quantity"
+msgstr ""
+
+#: ../includes/hooks.php:49
+msgid "Enter the initial stock quantity to display in the sold bar of product."
+msgstr ""
+
+#: ../includes/hooks.php:121
+msgid "Leave A Review?"
+msgstr ""
+
+#: ../includes/hooks.php:122
+msgid "We hope you've enjoyed using <b>GS Products Slider for WooCommerce Lite</b>! Would you consider leaving us a review on WordPress.org?"
+msgstr ""
+
+#: ../includes/hooks.php:127
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: ../includes/hooks.php:133
+msgid "I've already left a review"
+msgstr ""
+
+#: ../includes/hooks.php:139
+msgid "Maybe Later"
+msgstr ""
+
+#: ../includes/hooks.php:145
+msgid "I need help!"
+msgstr ""
+
+#: ../includes/hooks.php:151
+msgid "Never show again"
+msgstr ""
+
+#: ../includes/shortcode.php:18
+msgid "Product Slider: No shortcode ID found"
+msgstr ""
+
+#: ../includes/shortcode.php:80
+msgid "Product Slider: No shortcode found"
+msgstr ""
+
+#: ../includes/template-loader.php:55
+msgid "Template file not found - GS Plugins"
+msgstr ""
+
+#: ../includes/demo-data/dummy-data.php:47, ../includes/demo-data/dummy-data.php:60, ../includes/shortcode-builder/builder.php:338, ../includes/shortcode-builder/builder.php:428, ../includes/shortcode-builder/builder.php:470, ../includes/shortcode-builder/builder.php:536, ../includes/shortcode-builder/builder.php:568, ../includes/shortcode-builder/builder.php:1600, ../includes/shortcode-builder/builder.php:1668
+msgid "Unauthorised Request"
+msgstr ""
+
+#: ../includes/demo-data/dummy-data.php:76
+msgid "Dummy Shortcodes already imported"
+msgstr ""
+
+#: ../includes/demo-data/dummy-data.php:90
+msgid "Dummy Shortcodes imported"
+msgstr ""
+
+#: ../includes/demo-data/dummy-data.php:110
+msgid "Dummy Shortcodes deleted"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:68
+msgid "Shortcode Preview"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:134
+msgid "Product Views "
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:135
+msgid "Product Views"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:145
+msgid "Shortcodes "
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:146, ../includes/shortcode-builder/builder.php:803, ../includes/shortcode-builder/page.php:12
+msgid "Shortcodes"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:310, ../includes/shortcode-builder/builder.php:343, ../includes/shortcode-builder/builder.php:527
+msgid "Shortcode ID missing"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:330
+msgid "No shortcode found"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:350
+msgid "No shortcode found to update"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:375
+msgid "Database Error: %1$s"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:383
+msgid "Shortcode updated"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:431
+msgid "Undefined"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:434
+msgid "Please configure the settings properly"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:462
+msgid "Shortcode created successfully"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:474
+msgid "Clone Id not provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:478
+msgid "Clone shortcode not found"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:481
+msgid "- Cloned"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:506
+msgid "Shortcode cloned successfully"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:541
+msgid "No shortcode ids provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:555
+msgid "Shortcode has been deleted"
+msgid_plural "Shortcodes have been deleted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../includes/shortcode-builder/builder.php:573
+msgid "No temp key provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:574
+msgid "No temp settings provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:580
+msgid "Temp data saved"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:586
+msgid "Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:587
+msgid "Columns Tablet"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:588
+msgid "Columns Portpait Mobile"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:589
+msgid "Columns Mobile"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:590
+msgid "Exclude By Cats"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:591
+msgid "Exclude Specific Products"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:592
+msgid "Exclude By Tags"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:593
+msgid "Include By Tags"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:594
+msgid "Display Specific Products"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:595
+msgid "Select Products"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:596
+msgid "Include By Cats"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:597
+msgid "Templates"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:598
+msgid "Category Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:599
+msgid "Include By Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:600
+msgid "Exclude By Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:601
+msgid "Select Category"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:602
+msgid "Include Product Types"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:603
+msgid "Exclude Product Types"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:604
+msgid "Select Theme"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:605
+msgid "Select preferred Style & Theme"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:606
+msgid "View Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:607
+msgid "Select Theme Style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:608, ../includes/shortcode-builder/builder.php:729
+msgid "Reverse Direction"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:609
+msgid "Reverse Direction for Carousel sliding"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:611
+msgid "Description Length"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:612
+msgid "Control the Description Character Length, 0 means all"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:614
+msgid "Enable Carousel Navs"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:615
+msgid "Enable carousel navs for this theme, it may not available for certain theme"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:617
+msgid "Navs Style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:618
+msgid "Select carousel navs style, this is available for certain theme"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:620
+msgid "Nav Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:621
+msgid "Nav BG Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:622
+msgid "Nav Hover Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:623
+msgid "Nav Hover BG Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:625
+msgid "Enable Carousel Dots"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:626
+msgid "Enable carousel dots for this theme, it may not available for certain theme"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:628
+msgid "Enable Dynamic Dots"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:629
+msgid "Enable carousel dynamic dots for this theme."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:631
+msgid "Dots Style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:632
+msgid "Select carousel dots style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:634, ../includes/shortcode-builder/builder.php:637, ../includes/shortcode-builder/builder.php:735, ../includes/shortcode-builder/builder.php:736
+msgid "Navs Position"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:635, ../includes/shortcode-builder/builder.php:638
+msgid "Select carousel navs position"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:640
+msgid "Dots Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:641
+msgid "Dots Active Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:643
+msgid "Rating Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:644
+msgid "Price Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:645
+msgid "Old Price Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:646
+msgid "Title Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:647
+msgid "Title Hover Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:648
+msgid "Description Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:649
+msgid "Description Hover Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:650
+msgid "Badges Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:651
+msgid "Badges BG Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:652
+msgid "Discount Badge BG Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:653
+msgid "Out of Stock Badge BG Color"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:655
+msgid "Button Background"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:656
+msgid "Button Background Hover"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:658
+msgid "Button Text"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:659
+msgid "Button Text Hover"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:680
+msgid "Display Limit"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:681
+msgid "Set number of total products to show. -1 means all products"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:682
+msgid "Select Size"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:683
+msgid "Select the attachment size from the registered sources"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:684
+msgid "Include Items By Category"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:685
+msgid "Exclude Items By Category"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:686
+msgid "Include Items By Tag Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:687
+msgid "Exclude Items By Tag Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:688
+msgid "Display Title"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:689
+msgid "Show or Hide Product Title"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:690
+msgid "Display Ratings"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:691
+msgid "Show or Hide Product Ratings"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:692
+msgid "Display Count Down"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:693
+msgid "Show or Hide Product Count Down Timer. Make sure WPC Countdown Timer plugin is active"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:694
+msgid "Display Price"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:695
+msgid "Show or Hide Product Price"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:696
+msgid "Display Description"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:697
+msgid "Show or Hide Product Description"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:699
+msgid "Display Wishlist"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:700
+msgid "Show or Hide the Wishlist button. Make sure YITH WooCommerce Wishlist plugin is activated"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:702
+msgid "Display Compare"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:703
+msgid "Show or Hide the Compare button. Make sure YITH WooCommerce Compare plugin is activated"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:705
+msgid "Display Quick View"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:706
+msgid "Show or Hide the Quick View button. Make sure YITH WooCommerce Quick View plugin is activated"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:708
+msgid "Display Hot Badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:709
+msgid "Show or Hide the Hot badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:711
+msgid "Display Out Of Stock Badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:712
+msgid "Show or Hide the Out Of Stock badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:714
+msgid "Display Sale Badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:715
+msgid "Show or Hide the Sale badge"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:716
+msgid "Sale Badge Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:718
+msgid "Display Add to Cart"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:719
+msgid "Show or Hide Product Add to Cart"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:720
+msgid "Move Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:721
+msgid "Autoplay"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:722
+msgid "Enable/Disable Auto play to change the slides automatically after certain time. Default On"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:723
+msgid "Delay"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:724
+msgid "Set the Autoplay delay in millisecond. Default 2000 ms"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:725
+msgid "Infinite Loop"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:726
+msgid "If ON, clicking on \"Next\" while on the last slide will start over from first slide and vice-versa"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:727
+msgid "Pause on hover"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:728
+msgid "Autoplay will pause when mouse hovers over woo. Default On"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:730
+msgid "Reverse the direction of movement. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:731
+msgid "Pause on Hover"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:732
+msgid "Ticker will pause when mouse hovers over slider. Note: this functionality does NOT work if using CSS transitions!. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:733
+msgid "Slider Navs"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:734
+msgid "Next / Previous control for carousel. Default On Controls are not available when Ticker Mode is enabled"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:737
+msgid "Position of Next / Previous control for carousel. Default Bottom"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:738
+msgid "Slides Speed"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:739
+msgid "Duration of transition between slides (in ms)"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:740
+msgid "Ticker Speed"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:741
+msgid "Dot for Each"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:742
+msgid "Dot Navigation Help"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:743
+msgid "Slider Dots"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:744
+msgid "Dots control for carousel below the widget. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:745
+msgid "Dynamic Dots"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:746
+msgid "Good to enable if you use for many slides. So it will keep only few dots visible at the same time. Default On"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:747
+msgid "Play Pause"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:748
+msgid "Stop On Hover"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:749
+msgid "Play Pause control bellow the carousel. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:750
+msgid "woo Title"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:751
+msgid "Display woo including / excluding Title. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:752
+msgid "woo Category"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:753
+msgid "Display woo including / excluding Category. Default Off"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:754
+msgid "Tooltip"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:755
+msgid "Enable / disable Tooltip option."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:756
+msgid "woos style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:757
+msgid "woo grayscale feature works only in modern browsers.. like Chrome, Firefox and Safari"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:758
+msgid "Columns Gap"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:759
+msgid "Increase / decrease the gaps between each item. Default 30."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:760
+msgid "Desktop woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:761
+msgid "The minimum number of woos to be shown. Default 5, max 10. (Theme : Slider1,Fullwith slider,Center Mode, Ticker)"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:762
+msgid "Tablet woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:763
+msgid "The minimum number of woos to be shown. Default 3, max 10. (Theme : Slider1,Fullwith slider,Center Mode,2 Rows Slider, Ticker)"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:764
+msgid "Mobile woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:765
+msgid "The minimum number of woos to be shown. Default 2, max 10. (Theme : Slider1,Fullwith slider,Center Mode,2 Rows Slider, Ticker)"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:766
+msgid "Move woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:767
+msgid "The number of woos to move on transition. Default 1, max 10."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:768
+msgid "All Filter Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:769
+msgid "All"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:770
+msgid "Replace preferred text instead of \"All\" for Filter Theme."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:771
+msgid "Filter Name Align"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:772
+msgid "Filters Align"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:773
+msgid "Filter Categories alignment for Filter Theme."
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:774
+msgid "Clickable woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:775
+msgid "Specify target to open the Links, Default New Tab"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:776, ../includes/shortcode-builder/builder.php:779
+msgid "Order"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:777, ../includes/shortcode-builder/builder.php:778
+msgid "Image Type"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:780, ../includes/shortcode-builder/builder.php:781
+msgid "Order By"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:782, ../includes/shortcode-builder/builder.php:783
+msgid "Categories"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:784
+msgid "Select specific woo category to show that specific category woos"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:785
+msgid "Install Pre-Build Shortcodes"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:786
+msgid "Quick start with Woo Product Views by installing the pre-build shortcodes"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:787
+msgid "Preference"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:788
+msgid "Save Preference"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:792
+msgid "Save Settings"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:794
+msgid "Shop/Products Page"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:795
+msgid "Product Category Page"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:796
+msgid "Product Tag Page"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:797
+msgid "Product Search Page"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:799
+msgid "Select Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:800
+msgid "Way To Retrieve Product"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:802
+msgid "Custom CSS"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:804
+msgid "Global Settings for Woo Product Views"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:805
+msgid "All shortcodes for Woo Product Views"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:806
+msgid "Create Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:807
+msgid "Create New Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:808
+msgid "Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:809
+msgid "Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:810
+msgid "Action"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:811
+msgid "Actions"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:812
+msgid "Edit"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:813
+msgid "Clone"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:814
+msgid "Delete"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:815
+msgid "Delete All"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:816
+msgid "Create a new shortcode & save it to use globally in anywhere"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:817
+msgid "Edit Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:818
+msgid "General"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:819
+msgid "Style"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:820
+msgid "Query"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:821, ../includes/shortcode-builder/builder.php:822
+msgid "Shortcode Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:823
+msgid "Save Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:824
+msgid "Preview Shortcode"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:832
+msgid "1 Column"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:836
+msgid "2 Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:840
+msgid "3 Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:844
+msgid "4 Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:848
+msgid "5 Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:852
+msgid "6 Columns"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:864, ../includes/shortcode-builder/builder.php:1179, ../includes/shortcode-builder/builder.php:1240, ../includes/shortcode-builder/builder.php:1316
+msgid "Default"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:868
+msgid "1 Item"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:872
+msgid "2 Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:876
+msgid "3 Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:880
+msgid "4 Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:884
+msgid "5 Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:888
+msgid "6 Items"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:938
+msgid "Style 01"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:942
+msgid "Style 02"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:946
+msgid "Style 03"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:950
+msgid "Style 04"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:954
+msgid "Style 05"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:964
+msgid "Style 06"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:968
+msgid "Style 07"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:972
+msgid "Style 08"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:976
+msgid "Style 09"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:980
+msgid "Style 10"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:984
+msgid "Style 11"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:988
+msgid "Style 12"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:992
+msgid "Style 13"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:996
+msgid "Style 14"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1000
+msgid "Style 15"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1004
+msgid "Style 16"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1008
+msgid "Style 17"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1012
+msgid "Style 18"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1016
+msgid "Style 19"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1020
+msgid "Style 20"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1024
+msgid "Style 21"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1028
+msgid "Style 22"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1032
+msgid "Style 23"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1036
+msgid "Style 24"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1040
+msgid "Style 25"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1044
+msgid "Style 26"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1048
+msgid "Style 27"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1052
+msgid "Style 28"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1056
+msgid "Style 29"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1060
+msgid "Style 30"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1064
+msgid "Style 31"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1068
+msgid "Style 32"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1072
+msgid "Style List 01"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1076
+msgid "Style List 02"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1080
+msgid "Style List 03"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1084
+msgid "Style List 04"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1088
+msgid "Style List 05"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1117
+msgid "Carousel"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1121
+msgid "Grid"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1128
+msgid "Masonry"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1132
+msgid "Ticker"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1143
+msgid "Featured"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1152
+msgid "In stock"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1156
+msgid "Free"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1165
+msgid "Text"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1169
+msgid "Numeric"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1183, ../includes/shortcode-builder/builder.php:1244
+msgid "Style One"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1187, ../includes/shortcode-builder/builder.php:1248
+msgid "Style Two"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1191, ../includes/shortcode-builder/builder.php:1258
+msgid "Style Three"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1200, ../includes/shortcode-builder/builder.php:1262
+msgid "Style Four"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1204
+msgid "Style Five"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1208
+msgid "Style Six"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1212
+msgid "Style Seven"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1216
+msgid "Style Eight"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1220
+msgid "Style Nine"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1224
+msgid "Style Ten"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1228
+msgid "Style Eleven"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1275
+msgid "Bottom"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1279
+msgid "Center"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1283
+msgid "Center Outside"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1287
+msgid "Center Inside"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1291
+msgid "Top Right"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1295
+msgid "Top Left"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1320
+msgid "Product ID"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1324
+msgid "Product Name"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1328
+msgid "Latest"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1332
+msgid "Random"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1339
+msgid "Best Sellers / Popularity"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1343
+msgid "Average Rating"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1347
+msgid "Price"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1383
+msgid "Solid"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1387
+msgid "Transparent"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1396
+msgid "DESC"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1400
+msgid "ASC"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1558
+msgid "No Change"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1562
+msgid "Change completely (use all options of the shortcode)"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1615
+msgid "Preference saved"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1621, ../includes/shortcode-builder/builder.php:1686
+msgid "No nonce provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1625
+msgid "No preference provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1680
+msgid "Config saved"
+msgstr ""
+
+#: ../includes/shortcode-builder/builder.php:1690
+msgid "No config provided"
+msgstr ""
+
+#: ../includes/shortcode-builder/page.php:13
+msgid "Create New"
+msgstr ""
+
+#: ../includes/shortcode-builder/page.php:14
+msgid "Preferences"
+msgstr ""
+
+#: ../includes/shortcode-builder/page.php:15
+msgid "Config Layouts"
+msgstr ""
+
+#: ../includes/shortcode-builder/page.php:16
+msgid "Demo Data"
+msgstr ""
+
+#: ../includes/shortcode-builder/preview.php:32
+msgid "Something went wrong!"
+msgstr ""
+
+#: ../includes/shortcode-builder/preview.php:33
+msgid "Data not found for preview, probably it's a bug, contact with plugin author"
+msgstr ""
