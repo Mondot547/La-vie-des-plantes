@@ -4908,14 +4908,14 @@ span.woolentor-order-item-title .product-thumbnail {
   background-color: #222222;
 }
 
-.woocommerce div.product .wl-addto-cart.wl-style-4 form.cart .button,
-.wl-addto-cart.wl-style-4 form.cart .button {
+.woocommerce div.product .wl-addto-cart.wl-style-4 form.cart .button:not(.woolentor-quick-checkout-button),
+.wl-addto-cart.wl-style-4 form.cart .button:not(.woolentor-quick-checkout-button) {
   padding: 19px 0px;
   border-radius: 5px;
 }
 
-.woocommerce div.product .wl-addto-cart.wl-style-3 form.cart .button,
-.wl-addto-cart.wl-style-3 form.cart .button {
+.woocommerce div.product .wl-addto-cart.wl-style-3 form.cart .button:not(.woolentor-quick-checkout-button),
+.wl-addto-cart.wl-style-3 form.cart .button:not(.woolentor-quick-checkout-button) {
   padding: 15px 0px;
   border-radius: 5px;
 }

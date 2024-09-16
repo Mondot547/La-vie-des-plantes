@@ -4,7 +4,7 @@ msgstr ""
 "Project-Id-Version: ShopLentor – WooCommerce Builder for Elementor & "
 "Gutenberg\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-09-01 05:15+0000\n"
+"POT-Creation-Date: 2024-09-15 04:38+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: \n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Loco https://localise.biz/\n"
-"X-Loco-Version: 2.6.11; wp-6.6.1\n"
+"X-Loco-Version: 2.6.11; wp-6.6.2\n"
 "X-Domain: woolentor"
 
 #: includes/modules/popup-builder/includes/admin/tmpl-popup-builder-modal.php:392
@@ -286,8 +286,8 @@ msgstr ""
 msgid "Add to Cart Button Text"
 msgstr ""
 
-#: includes/helper-function.php:1353 includes/helper-function.php:1354
-#: includes/helper-function.php:1377
+#: includes/helper-function.php:1365 includes/helper-function.php:1366
+#: includes/helper-function.php:1389
 #: woolentor-blocks/includes/helper-functions.php:598
 #: woolentor-blocks/includes/helper-functions.php:599
 #: woolentor-blocks/includes/helper-functions.php:615
@@ -1733,7 +1733,7 @@ msgstr ""
 msgid "Comment count"
 msgstr ""
 
-#: includes/helper-function.php:1377
+#: includes/helper-function.php:1389
 #: woolentor-blocks/includes/helper-functions.php:615
 #: includes/addons/wb_product_add_to_cart.php:1290
 #: woolentor-blocks/production/includes/helper-functions.php:615
@@ -2048,7 +2048,7 @@ msgstr ""
 msgid "Data fetch"
 msgstr ""
 
-#: includes/admin/admin-init.php:451
+#: includes/admin/admin-init.php:456
 msgid "Data Fetch successfully!"
 msgstr ""
 
@@ -2057,7 +2057,7 @@ msgstr ""
 msgid "Data not found."
 msgstr ""
 
-#: includes/admin/admin-init.php:389
+#: includes/admin/admin-init.php:394
 msgid "Data Saved successfully!"
 msgstr ""
 
@@ -2933,7 +2933,7 @@ msgstr ""
 msgid "HasThemes"
 msgstr ""
 
-#: includes/admin/admin-init.php:254
+#: includes/admin/admin-init.php:259
 msgid "HasThemes Stories"
 msgstr ""
 
@@ -4105,7 +4105,7 @@ msgstr ""
 msgid "No Order label"
 msgstr ""
 
-#: includes/helper-function.php:1568
+#: includes/helper-function.php:1580
 msgid "No products were found matching your selection."
 msgstr ""
 
@@ -4836,7 +4836,7 @@ msgstr ""
 msgid "Product Add To Cart"
 msgstr ""
 
-#: includes/helper-function.php:1355
+#: includes/helper-function.php:1367
 #: woolentor-blocks/includes/helper-functions.php:600
 #: woolentor-blocks/production/includes/helper-functions.php:600
 msgid "Product Added"
@@ -5224,8 +5224,8 @@ msgstr ""
 
 #: woolentor-blocks/includes/templates/product-universal.php:161
 #: woolentor-blocks/includes/templates/product-universal.php:210
-#: woolentor-blocks/production/includes/templates/product-universal.php:160
-#: woolentor-blocks/production/includes/templates/product-universal.php:207
+#: woolentor-blocks/production/includes/templates/product-universal.php:161
+#: woolentor-blocks/production/includes/templates/product-universal.php:210
 #: woolentor-blocks/build/blocks/universal-product/old_index.php:409
 #: woolentor-blocks/build/blocks/universal-product/old_index.php:458
 #: woolentor-blocks/src/blocks/universal-product/old_index.php:409

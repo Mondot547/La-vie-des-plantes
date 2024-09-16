@@ -1,7 +1,7 @@
 /**
  * Swatchly Frontend JS
  */
- ;( function ( $ ) {
+;( function ( $ ) {
 	"use strict";
 
 	if ( typeof swatchly_params === 'undefined' ) {
@@ -693,6 +693,28 @@
 			product_loop.init_variation_form();
 			single_product.init();
 		});
+	});
+
+	/**
+	 * 6. Barn2 WCF Product Filter
+	 */
+	$(window).on('load', function(){
+		if( $('.wcf-filter-form').length && typeof window.wp.hooks.addAction !== 'undefined' ){
+			window.wp.hooks.addAction( 'wcpf.filteringDone', 'namespace', function( config, filteredDOM ){
+				product_loop.prevent_click();
+				product_loop.init_variation_form();
+				single_product.init();
+			} );
+		}
+	});
+
+	/**
+	 * 7. Astra Pro quick view Support
+	 */
+	$( document ).on('ast_quick_view_loader_stop', function(){
+		product_loop.prevent_click();
+		product_loop.init_variation_form();
+		single_product.init();
 	});
 
 	/**

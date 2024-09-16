@@ -386,6 +386,15 @@ if ( ! class_exists( '\SktThemes\PageTemplatesDirectory' ) ) {
 				'required_plugins' => array( 'elementor' => array( 'title' => __( 'Elementor Page Builder', 'skt-templates' ) ) ),
 			);
 			$templates_list = array(
+			'therapist-elementor'              => array(
+					'title'       => __( 'SKT Therapist', 'skt-templates' ),
+					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
+					'theme_url'   => esc_url('#'),
+					'demo_url'    => esc_url('https://demosktthemes.com/free/therapist/'),
+					'screenshot'  => esc_url('https://demosktthemes.com/free/therapist/therapist.jpg'),
+					'import_file' => esc_url('https://demosktthemes.com/free/therapist/therapist.json'),
+					'keywords'    => __( ' therapist, analyst, healer, psychologist, psychotherapist, therapy, counselor, internist, taking care, medical doctor, psychiatry, doctor of psychology, headshrinker, general practitioner, sychiatric, nursemaid, grief counselor, chiropractor, medicine, medical,life coach, clinician, counselor, psychical, nurse, Therapist, massager, massage' ),
+			),				
 			'skt-windowsanddoors-elementor'              => array(
 					'title'       => __( 'SKT Windows And Doors', 'skt-templates' ),
 					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
@@ -1148,16 +1157,7 @@ if ( ! class_exists( '\SktThemes\PageTemplatesDirectory' ) ) {
 					'screenshot'  => esc_url('https://demosktthemes.com/free/airconditioner/airconditioner.jpg'),
 					'import_file' => esc_url('https://demosktthemes.com/free/airconditioner/airconditioner.json'),
 					'keywords'    => __( ' airconditioner, heating and cooling services, AC Contractor, Air filtration, ventilating service provider, Air handler business, HVAC repairing center, factory, electronic gadgets, Air Condition, Air Conditioner, cooler, HVAC technician, HVAC Specialist, automobiles, Solar heating technician, Refrigeration Specialist, Equipment specialist, Mechanical Administrator, HVAC products, Solar Thermal, Chimney Repairs, Installation services, HVAC test tools, testing contractor, Air Conditioner, air, ac, AC' ),
-				),		
-				'therapist-elementor'              => array(
-					'title'       => __( 'Therapist', 'skt-templates' ),
-					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),
-					'theme_url'   => esc_url('#'),
-					'demo_url'    => esc_url('https://demosktthemes.com/free/therapist/'),
-					'screenshot'  => esc_url('https://demosktthemes.com/free/therapist/therapist.jpg'),
-					'import_file' => esc_url('https://demosktthemes.com/free/therapist/therapist.json'),
-					'keywords'    => __( ' therapist, analyst, healer, psychologist, psychotherapist, therapy, counselor, internist, taking care, medical doctor, psychiatry, doctor of psychology, headshrinker, general practitioner, sychiatric, nursemaid, grief counselor, chiropractor, medicine, medical,life coach, clinician, counselor, psychical, nurse, Therapist, massager, massage' ),
-				),				
+				),					
 				'webake-elementor'              => array(
 					'title'       => __( 'We Bake', 'skt-templates' ),
 					'description' => __( 'It downloads from our website sktthemes.org, once you do it you will get the exact preview like shown in the demo. Steps after downloading the theme: Upload it via appearance>themes>add new>upload theme zip file and activate the theme.', 'skt-templates' ),

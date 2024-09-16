@@ -102,13 +102,13 @@ class Woolentor_Admin_Init{
             self::MENU_PAGE_SLUG, 
             '', 
             WOOLENTOR_ADDONS_PL_URL.'includes/admin/assets/images/icons/menu-bar_20x20.png',
-            100
+            '58.7'
         );
 
         add_submenu_page(
-            'woolentor_page', 
+            self::MENU_PAGE_SLUG, 
             esc_html__( 'Settings', 'woolentor' ),
-            esc_html__( 'Settings', 'woolentor' ), 
+            esc_html__( 'Settings', 'woolentor' ),
             'manage_options', 
             'woolentor', 
             [ $this, 'plugin_page' ] 
@@ -125,7 +125,7 @@ class Woolentor_Admin_Init{
      */
     public function add_other_menu(){
         add_submenu_page(
-            'woolentor_page', 
+            self::MENU_PAGE_SLUG, 
             esc_html__('Upgrade to Pro', 'woolentor'),
             esc_html__('Upgrade to Pro', 'woolentor'), 
             'manage_options', 
@@ -240,6 +240,11 @@ class Woolentor_Admin_Init{
             if ( wp_script_is( 'wc-enhanced-select', 'enqueued' ) ) {
                 wp_dequeue_script('wc-enhanced-select');
                 wp_deregister_script('wc-enhanced-select');
+            }
+            // UNISEND for WooCommerce Plugin script dequeue
+            if ( wp_script_is( 'woo-lithuaniapost', 'enqueued' ) ) {
+                wp_dequeue_script('woo-lithuaniapost');
+                wp_deregister_script('woo-lithuaniapost');
             }
         }
     }

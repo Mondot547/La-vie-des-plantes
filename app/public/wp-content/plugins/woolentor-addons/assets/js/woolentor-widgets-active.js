@@ -147,6 +147,9 @@
         $('.woolentor-cart a.add_to_cart_button,.woolentor-cart a.added_to_cart,.woolentor-cart a.button').each(function() {
             woolentor_tool_tips( $(this), 'html');
         });
+        $('a.woolentor-quick-checkout-button').each(function() {
+            woolentor_tool_tips( $(this), 'title' );
+        });
     }
 
     /*

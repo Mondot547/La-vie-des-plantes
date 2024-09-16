@@ -6,7 +6,7 @@ Tested up to: 6.6.1
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.6.9
+Stable tag: 1.6.10
 
 Add options (addons) to your WooCommerce products so your customers can personalize their products. Product forms for everyone!
 
@@ -163,6 +163,9 @@ From your WordPress dashboard
  You'll need WooCommerce 3.6.0 or higher, WordPress 4.7 or higher, and PHP 7.0 or higher to make this plugin work.
 
 == Changelog ==
+
+= 1.6.10 =
+ * Fix: products with a large amount of variations and no fields present wrongly called our "calculate" method.
 
 = 1.6.9 =
  * Fix: fixed a pricing issue when no quantity input can be found on the page.

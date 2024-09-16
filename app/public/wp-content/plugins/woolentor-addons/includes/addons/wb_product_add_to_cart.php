@@ -123,7 +123,7 @@ class Woolentor_Wb_Product_Add_To_Cart_Widget extends Widget_Base {
                         'library' => 'solid',
                     ],
                     'label_block' => true,
-                    'fa4compatibility' => 'buttonicon'
+                    'fa4compatibility' => 'quantityplusicon'
                 ]
             );
 
@@ -138,7 +138,7 @@ class Woolentor_Wb_Product_Add_To_Cart_Widget extends Widget_Base {
                         'library' => 'solid',
                     ],
                     'label_block' => true,
-                    'fa4compatibility' => 'buttonicon'
+                    'fa4compatibility' => 'qunantityminusicon'
                 ]
             );
 
@@ -1191,8 +1191,8 @@ class Woolentor_Wb_Product_Add_To_Cart_Widget extends Widget_Base {
     }
 
     protected function customise_single_product_add_to_cart($settings, $porduct_type){
-        $plus_icon = !empty( $settings['quantity_plus_icon']['value'] ) ? woolentor_render_icon( $settings, 'quantity_plus_icon', 'buttonicon' ) : '<i class="ion-plus"></i>';
-        $minus_icon = !empty( $settings['qunantity_minus_icon']['value'] ) ? woolentor_render_icon( $settings, 'qunantity_minus_icon', 'buttonicon' ) : '<i class="ion-minus"></i>';
+        $plus_icon = !empty( $settings['quantity_plus_icon']['value'] ) ? woolentor_render_icon( $settings, 'quantity_plus_icon', 'quantityplusicon' ) : '<i class="ion-plus"></i>';
+        $minus_icon = !empty( $settings['qunantity_minus_icon']['value'] ) ? woolentor_render_icon( $settings, 'qunantity_minus_icon', 'qunantityminusicon' ) : '<i class="ion-minus"></i>';
 
         if( 'grouped' != $porduct_type ){
             add_action( 'woocommerce_before_add_to_cart_quantity', function() use ($settings, $minus_icon) {

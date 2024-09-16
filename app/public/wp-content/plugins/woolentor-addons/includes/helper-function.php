@@ -1319,6 +1319,18 @@ function woolentor_order_by_opts() {
 }
 
 /**
+ * [woolentor_exist_quick_checkout]
+ * @return [bool]
+ */
+function woolentor_exist_quick_checkout(){
+    if( woolentor_get_option( 'enable', 'woolentor_quick_checkout_settings', 'off' ) == 'on' ){
+        return true;
+    }else{
+        return false;
+    }
+}
+
+/**
  * [woolentor_exist_compare_plugin]
  * @return [bool]
  */

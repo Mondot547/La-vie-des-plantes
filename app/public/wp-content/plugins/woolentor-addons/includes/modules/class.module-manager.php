@@ -204,6 +204,16 @@ class Woolentor_Module_Manager{
                     \Woolentor\Modules\SideMiniCart\woolentor_Side_Mini_Cart( false );
                 }
             }
+
+            // Quick Checkout
+            if( file_exists( WOOLENTOR_ADDONS_PL_PATH_PRO . 'includes/modules/quick-checkout/quick-checkout.php' ) ){
+                require_once( WOOLENTOR_ADDONS_PL_PATH_PRO . 'includes/modules/quick-checkout/quick-checkout.php' );
+                if( woolentor_get_option( 'enable', 'woolentor_quick_checkout_settings', 'off' ) == 'on' ){
+                    \Woolentor\Modules\QuickCheckout\woolentor_QuickCheckout( true );
+                } else {
+                    \Woolentor\Modules\QuickCheckout\woolentor_QuickCheckout( false );
+                }
+            }
             
 
         }

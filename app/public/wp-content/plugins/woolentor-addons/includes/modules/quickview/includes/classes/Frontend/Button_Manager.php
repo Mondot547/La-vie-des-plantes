@@ -82,7 +82,7 @@ class Button_Manager {
     public function is_enable(){
 
         $enable_button           = woolentor_get_option( 'enable_on_shop_archive', 'woolentor_quickview_settings', 'off' ) === 'on';
-        $button_enable_on_mobile = woolentor_get_option( 'enable_on_mobile', 'woolentor_quickview_settings', 'on' ) === 'on';
+        $button_enable_on_mobile = woolentor_get_option( 'enable_on_mobile', 'woolentor_quickview_settings', 'off' ) === 'on';
 
         if( !wp_is_mobile() && $enable_button ){
             $show_button = 'on';

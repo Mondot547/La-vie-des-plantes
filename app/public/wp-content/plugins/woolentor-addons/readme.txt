@@ -3,7 +3,7 @@ Contributors: hasthemes, htplugins, devitemsllc, zenaulislam, tarekht, aslamhasi
 Tags: Elementor, WooCommerce, WooCommerce Elementor, WooCommerce Builder, WooCommerce Product, Woo Builder, Variation Swatches, woocommerce blocks, Product Slider, Product Compare, Wishlist, Product Filter
 Requires at least: 4.7
 Tested up to: 6.6
-Stable tag: 2.9.6
+Stable tag: 2.9.7
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -1103,6 +1103,12 @@ Elementor Pro is not required. But you can use ShopLentor with Elementor free & 
 
 == Changelog ==
 
+= Version: 2.9.7 - Date: 15-09-2024 =
+* Solved : Quick View By default option for Mobile.
+* Solved : Variation Swatch with Astra Quick View and Barn2 WCF Product Filter.
+* Solved : Backorder Name key display in Mini Cart.
+* Compatibility : Latest WordPress and WooCommerce version.
+
 = Version: 2.9.6 - Date: 1-09-2024 =
 * Added : Quick View Module.
 * Added : Suggest Price Form submission handle from Ajax for better user experience. 
@@ -1614,18 +1620,6 @@ Elementor Pro is not required. But you can use ShopLentor with Elementor free & 
 * Solved : Repeater field select2 style issue.
 * Solved : Product showing issue in Module popup.
 * Solved : Same Height box content area issue.
-
-= Version: 2.1.6 - Date: 2022-01-15 =
-* Improved : Gutenberg Asset load on frontend site.
-* Solved : FlashSale Empty deals warning issue.
-* Solved : Shopify Style checkout page field override issue.
-* Solved : Translate issue in Shopify style checkout page.
-* Solved : Shopify checkout page account creation issue.
-* Solved : AJAX function deprecation issue.
-* Solved : Rating color change issue.
-
-= Version: 2.1.5 - Date: 2022-01-03 =
-* Solved : Gutenberg Blocks Console Error issue.
 
 == Installation ==
 This section describes how to install the ShopLentor - WooCommerce Addons for Elementor Page Builder plugin and get it working.

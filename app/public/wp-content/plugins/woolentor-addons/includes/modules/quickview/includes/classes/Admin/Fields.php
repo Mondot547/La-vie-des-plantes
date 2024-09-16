@@ -22,7 +22,7 @@ class Fields {
 
     public function admin_fields( $fields ){
 
-        array_splice( $fields['woolentor_others_tabs']['modules'], 16, 0, $this->quickview_sitting_fields() );
+        array_splice( $fields['woolentor_others_tabs']['modules'], 10, 0, $this->quickview_sitting_fields() );
 
         if( \Woolentor\Modules\QuickView\ENABLED ){
             $fields['woolentor_elements_tabs'][] = [

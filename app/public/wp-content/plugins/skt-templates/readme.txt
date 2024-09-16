@@ -4,7 +4,7 @@ Tags: gutenberg, elementor, themes, one click demo import, templates
 Requires at least: 5.0
 Tested up to: 6.6
 Requires PHP: 5.6
-Stable tag: 6.16
+Stable tag: 6.17
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -79,6 +79,9 @@ Yes if your site import is done and you are currently editing via Elementor or i
 
 
 == Changelog ==
+= 6.17 =
+Reordering SKT Therapist in Elementor Templates.
+
 = 6.16 =
 Reordering SKT Windows And Doors in Elementor Templates.
 

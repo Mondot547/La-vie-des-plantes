@@ -3143,7 +3143,16 @@ class Woolentor_Admin_Fields {
                         'type'   => 'element',
                         'default'=> 'off',
                         'is_pro' => true
-                    )
+                    ),
+
+                    array(
+                        'name'     => 'quick_checkoutp',
+                        'label'    => esc_html__( 'Quick Checkout', 'woolentor' ),
+                        'type'     => 'module',
+                        'default'=> 'off',
+                        'require_settings' => true,
+                        'is_pro' => true
+                    ),
 
                 ),
 
